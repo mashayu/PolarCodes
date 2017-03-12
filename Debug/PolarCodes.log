@@ -1,0 +1,5 @@
+﻿  SeqDecoder.cpp
+c:\users\мария\documents\spbpu\fightclub\polarcodes\polarcodes\seqdecoder.cpp(32): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+c:\users\мария\documents\spbpu\fightclub\polarcodes\polarcodes\seqdecoder.cpp(85): warning C4018: <: несоответствие типов со знаком и без знака
+c:\users\мария\documents\spbpu\fightclub\polarcodes\polarcodes\seqdecoder.cpp(260): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+  PolarCodes.vcxproj -> C:\Users\Мария\Documents\SPBPU\fightClub\PolarCodes\Debug\PolarCodes.exe
